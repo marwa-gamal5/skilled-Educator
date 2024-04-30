@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+    /* For small screens */
+    .bg-white, .style {
+        font-weight: 500 !important;
+        font-size: 14px !important;
+        line-height: 19px !important;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    /* For medium screens */
+    .bg-white, .style {
+        font-weight: 500 !important;
+        font-size: 14px !important;
+        line-height: 19px !important;
+
+    }
+}

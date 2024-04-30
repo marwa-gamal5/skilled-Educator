@@ -1,0 +1,50 @@
+.bg-blue-700 {
+    --tw-bg-opacity: 1;
+    background-color: #58aedd !important;
+}
+
+
+.border-blue-700 {
+    --tw-border-opacity: 1;
+    border-color: #58aedd !important;
+}
+/**{*/
+/*    border: 1px solid rebeccapurple !important;*/
+/*}*/
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 1024px) {
+    .slidersize{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1022px) {
+    .slidersize{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .slidersize{
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+
+}
+
+/**{*/
+/*    border: 1px solid rebeccapurple !important;*/
+/*}*/

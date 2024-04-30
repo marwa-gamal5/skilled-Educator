@@ -1,0 +1,18 @@
+.space-x-3 > :not([hidden]) ~ :not([hidden]){
+    display: none;
+}
+.bg-white\/50 {
+    background-color: transparent !important;
+}
+.bg-white {
+    display: none;
+     --tw-bg-opacity: 1;
+     background-color: transparent;
+}
+
+.maintext{
+    font-family: "Noto Kufi Arabic", serif;
+}
+
+
+
